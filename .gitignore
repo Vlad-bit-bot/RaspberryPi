@@ -1,0 +1,23 @@
+# Bytecode cache folders
+__pycache__/
+
+# Editor swap/temp files
+*.swp
+*.swo
+
+# Python compiled files
+*.pyc
+
+# Build artifacts (if you want)
+build/
+dist/
+*.egg-info/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Other common ignores
+.vscode/
+.idea/
+.DS_Store
